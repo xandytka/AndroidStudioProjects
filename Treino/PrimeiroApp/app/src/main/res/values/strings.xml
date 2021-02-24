@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="hint_padrao">Escreva algo</string>
+    <string name="text_padrao">Escreva algo acima</string>
+    <string name="btn_Limpar">Limpar</string>
+    <string name="btn_Confirmar">Confirmar</string>
+</resources>
